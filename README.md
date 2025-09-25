@@ -86,5 +86,3 @@ Challenges solved:
 - Expand warehouse with **social media & customer feedback data** for sentiment analysis  
 
  
-- 📧 Email: sabrineayadi2003@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/sabrine-ayadi-409b75167/)  
